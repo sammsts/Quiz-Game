@@ -1,4 +1,4 @@
-# Quiz Game <img style="width: 50px;" src="https://github.com/sammsts/Quiz-Game/assets/100657343/fdbc0afa-d7fb-4b83-9e5c-724b95df2a5a" />
+# Quiz Game <img style="width: 50px;" src="https://github.com/sammsts/Quiz-Game/assets/100657343/1e454be5-ec14-42bc-bdfe-4efa3f63f914" />
 
 > Status: Developed ✅
 
