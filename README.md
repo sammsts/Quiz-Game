@@ -43,4 +43,4 @@ Run the "npm run serve" command after installing the dependencies with the "npm 
 
 <br>
 
-![quizgame-gif](https://github.com/sammsts/Quiz-Game/assets/100657343/d3b60f9e-2730-442b-9f47-df8fc30ede8b)
+![Quiz-Game](https://github.com/sammsts/Quiz-Game/assets/100657343/d8355d36-06d1-4ffe-9249-2754aeadb01c)
